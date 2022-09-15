@@ -3,7 +3,7 @@
 see [FuckRKN1.org](https://FuckRKN1.org) for best free VPN
 
 ## Install
-- install vpnutils from https://github.com/Timac/VPNStatus/releases
+- install vpnutils from [Timac/VPNStatus](https://github.com/Timac/VPNStatus/releases) (move script to `/usr/local/bin/`)
 - install [Alfred](https://www.alfredapp.com/)
 - run fuckrkn.alfredworkflow and add to Alfred 
 
